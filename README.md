@@ -1,5 +1,7 @@
 # Fashion-MNIST Image Classification
 
+## Data will be found at this link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
 ## Description:
 
 
